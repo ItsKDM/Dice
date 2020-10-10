@@ -1,2 +1,1 @@
 # Dice
-Just tap.
